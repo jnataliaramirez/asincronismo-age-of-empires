@@ -25,6 +25,7 @@ const fetchData = async (urlApi) => {
 (async () => {
   try {
     const information = await fetchData(API);
+    console.log(information)
     let view = `
     ${information
       .map(
