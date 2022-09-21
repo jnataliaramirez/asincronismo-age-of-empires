@@ -1,0 +1,27 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto final de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnataliaramirez/asincronismo.git"
+  },
+  "keywords": [
+    "asincronismo",
+    "fetch",
+    "promises",
+    "httpsrequest",
+    "generator"
+  ],
+  "author": "Natalia Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnataliaramirez/asincronismo/issues"
+  },
+  "homepage": "https://github.com/jnataliaramirez/asincronismo#readme",
+  "type": "module"
+}
